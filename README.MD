@@ -45,7 +45,7 @@ python cliente.py
 
 ## Nota
 
-Lembre-se que, se você for utilizar em computadores distintos, o computador que executar o cliente para enviar mensagens para onde está o servidor precisará alterar o valor da variável address de 'localhost' para o seu endereço IP:
+Lembre-se que, se você for utilizar em computadores distintos, o computador que executar o cliente para enviar mensagens para onde está o servidor precisará alterar o valor da variável address de 'localhost' para o endereço IP do servidor:
 
 ```python
 address = 'SEU_IP'
